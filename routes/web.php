@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/mensagem', function () {
-    return 'Essa é uma mensagem simples!';
+    return 'Deploy automatico';
 });
